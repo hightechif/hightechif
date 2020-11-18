@@ -15,7 +15,13 @@
 I'm having interest in Data Science, Machine Learning, Data Engineering, and Web Development. I love to learn something new. I'm open to discussion and collaboration. Please call me if you have something to ask.
 
 - 🌱 I’m currently learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf) and Back-End Development ([Node.js](https://github.com/ridhanf/belajar-node.js)).
-- 📫 How to reach me: ridhanfadhilah@gmail.com
+- 📫 How to reach me: [email](ridhanfadhilah@gmail.com) 
 
+Also follow my [gitlab account](https://www.gitlab.com/ridhanf).
+
+Thanks.
+
+Best regards,
+Ridhan Fadhilah
 <a href="https://linkedin.com/in/ridhanf" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30"></a> &nbsp; 
 
