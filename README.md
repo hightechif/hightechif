@@ -23,6 +23,6 @@ Thanks.
 
 Best regards,
 
-Ridhan Fadhilah
+Ridhan Fadhilah, S.T.
 
 <a href="https://linkedin.com/in/ridhanf" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30"></a> &nbsp; 
