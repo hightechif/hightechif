@@ -22,6 +22,7 @@ Also follow my [gitlab account](https://www.gitlab.com/ridhanf).
 Thanks.
 
 Best regards,
-Ridhan Fadhilah
-<a href="https://linkedin.com/in/ridhanf" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30"></a> &nbsp; 
 
+Ridhan Fadhilah
+
+<a href="https://linkedin.com/in/ridhanf" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30"></a> &nbsp; 
