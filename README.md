@@ -10,7 +10,6 @@
 [comment]: <> (- 😄 Pronouns: ...)
 [comment]: <> (- ⚡ Fun fact: ...)
 [comment]: <> (-->)
-[comment]: <> ()
 
 <a href="https://linkedin.com/in/ridhanf" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30"></a> &nbsp; <a href="https://stackoverflow.com/users/13586637/ridhan-fadhilah" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="30"></a> &nbsp; 
 
