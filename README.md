@@ -12,9 +12,9 @@
 -->
  
 
-My name is Ridhan Fadhilah. You can call me Fadhil or Dan. I'm a fresh graduate of engineering physics who curious about data and technology. Love to learn something new. An enthusiastic, persistent, adaptable, and creative person. Having interests in Machine Learning, Data Science, Data Engineering, and Web Development.
+I'm having interest in Data Science, Machine Learning, Data Engineering, and Web Development. I love to learn something new. I'm open to discussion and collaboration. Please call me if you have something to ask.
 
-- 🌱 I’m currently learning Data Science (Python) and Back-End Development (Node.js).
+- 🌱 I’m currently learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf) and Back-End Development ([Node.js](https://github.com/ridhanf/belajar-node.js)).
 - 📫 How to reach me: ridhanfadhilah@gmail.com
 
 <a href="https://linkedin.com/in/ridhanf" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30"></a> &nbsp; 
