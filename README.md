@@ -12,7 +12,7 @@
 -->
  
 
-I'm having interest in Data Science, Machine Learning, Data Engineering, and Web Development. I love to learn something new. I'm open to discussion and collaboration. Please call me if you have something to ask.
+I'm having interest in Data Science, Machine Learning, Data Engineering, and Web Development. I love to learn something new. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
 
 - 🌱 I’m currently learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf) and Back-End Development ([Node.js](https://github.com/ridhanf/belajar-node.js)).
 - 📫 How to reach me: [email](ridhanfadhilah@gmail.com) 
