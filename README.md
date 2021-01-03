@@ -17,7 +17,7 @@ I'm having interest in Data Science, Machine Learning, Data Engineering, and Web
 - 🌱 I’m currently learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf) and Back-End Engineering on [Codecademy](https://www.codecademy.com/profiles/ridhanf).
 - 📫 How to reach me: send your email to ridhanfadhilah@gmail.com
 
-Also, visit my [gitlab account](https://www.gitlab.com/ridhanf) and [HackerRank account](https://www.hackerrank.com/ridhanf).
+Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank account](https://www.hackerrank.com/ridhanf).
 
 Thanks.
 
