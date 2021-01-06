@@ -26,6 +26,7 @@ I'm having an interest in Web Development, Data Engineering, Machine Learning, a
 Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank account](https://www.hackerrank.com/ridhanf).
 
 ### Languages and Tools:
+[https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg](https://code.visualstudio.com/)
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio 
 Code" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
