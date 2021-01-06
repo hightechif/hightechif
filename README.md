@@ -94,6 +94,7 @@ IDK
 ---
 
 <img align="left" alt="ridhanf's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ridhanf&show_icons=true&hide_border=true" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ridhanf.ridhanf)
