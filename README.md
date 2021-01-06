@@ -1,8 +1,5 @@
 ### Hello Coder, I'm Ridhan a.k.a. Fadhil
 [![Twitter Follow](https://img.shields.io/twitter/follow/HighTechCode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHighTechCode&screen_name=HighTechCode)
-
-I'm having interest in Web Development, Data Engineering, Machine Learning, and  Data Science. I love to learn something new. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
-
 <!--
 **ridhanf/ridhanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
@@ -11,7 +8,7 @@ I'm having interest in Web Development, Data Engineering, Machine Learning, and 
 - 😄 Pronouns: ...
 <a href="https://stackoverflow.com/users/13586637/ridhan-fadhilah" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="30"></a> &nbsp;
 -->
-
+I'm having interest in Web Development, Data Engineering, Machine Learning, and  Data Science. I love to learn something new. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
 - 🌱 I’m currently learning Back-End Engineering on [Codecademy](https://www.codecademy.com/profiles/ridhanf) and [freeCodeCamp](https://www.freecodecamp.org/ridhanf), and I'm also learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf).
 - 👯 I’m looking to collaborate on Web Development using JavaScript and Node.js
 - 🥅 2021 Goals: Work as a Back-End Engineer and Contribute more to Open Source projects
@@ -19,7 +16,6 @@ I'm having interest in Web Development, Data Engineering, Machine Learning, and 
 - 📫 How to reach me: send your email to ridhanfadhilah@gmail.com
 
 ### Connect with me:
-
 <!--
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -92,7 +88,6 @@ IDK
 -->
 
 ---
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ridhanf&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&hide=TeX&layout=compact)
 
