@@ -33,7 +33,7 @@ Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank 
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" height="30px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" height="30px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" height="30px"></a>
-<a href="https://jquery.com/" title="jQuery"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" eight="30px"></a>
+<a href="https://jquery.com/" title="jQuery"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" height="30px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" height="30px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/es6.svg" alt="ECMAScript 6" height="30px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" height="30px"></a>
