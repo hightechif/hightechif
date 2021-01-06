@@ -27,8 +27,8 @@ I'm having interest in Web Development, Data Engineering, Machine Learning, and 
 [<img align="left" alt="HighTechCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ridhanf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ridhanfadhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank account](https://www.hackerrank.com/ridhanf).
 
-<br />
 <br />
 
 ### Tech Stacks:
@@ -93,22 +93,11 @@ IDK
 <a href="https://nsis.sourceforge.io/" title="NSIS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nsis.svg" alt="NSIS" width="21px" height="21px"></a>
 -->
 
-<br />
-<br />
-
-Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank account](https://www.hackerrank.com/ridhanf).
-
-Thanks.
+Sincerely,
 
 <br />
-<br />
-
-Best regards,
 
 Ridhan Fadhilah, S.T.
-
-<br />
-<br />
 
 <!--
 [website]: https://codeSTACKr.com
