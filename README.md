@@ -27,7 +27,7 @@ Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank 
 
 ### Languages and Tools:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="30px" height="30px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="30px" height="30px"></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" height="30px"></a>
 <a href="https://www.github.com/" title="GitHub"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/github-icon.svg" alt="GitHub" width="30px" height="30px"></a>
 <a href="https://www.gitlab.com/" title="GitLab"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/gitlab.svg" alt="GitLab" width="30px" height="30px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="30px" height="30px"></a>
@@ -40,7 +40,7 @@ Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank 
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="30px" height="30px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" height="30px"></a>
 <a href="https://rubyonrails.org//" title="Rails"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/rails.svg" alt="Rails" height="30px"></a>
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="30px" height="30px"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" height="30px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="30px" height="30px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="35px" height="35px"></a>
 
