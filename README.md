@@ -27,9 +27,8 @@ I'm having interest in Web Development, Data Engineering, Machine Learning, and 
 [<img align="left" alt="HighTechCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ridhanf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ridhanfadhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank account](https://www.hackerrank.com/ridhanf).
 
-<br />
+Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank account](https://www.hackerrank.com/ridhanf).
 
 ### Tech Stacks:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio 
@@ -93,11 +92,8 @@ IDK
 <a href="https://nsis.sourceforge.io/" title="NSIS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nsis.svg" alt="NSIS" width="21px" height="21px"></a>
 -->
 
-Sincerely,
-
-<br />
-
-Ridhan Fadhilah, S.T.
+### :zap: GitHub Stats
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 <!--
 [website]: https://codeSTACKr.com
