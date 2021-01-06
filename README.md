@@ -1,6 +1,8 @@
 ### Hello Coder, I'm Ridhan a.k.a. Fadhil
 [![Twitter Follow](https://img.shields.io/twitter/follow/HighTechCode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHighTechCode&screen_name=HighTechCode)
 
+I'm having interest in Web Development, Data Engineering, Machine Learning, and  Data Science. I love to learn something new. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
+
 <!--
 **ridhanf/ridhanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
@@ -9,8 +11,6 @@
 - 😄 Pronouns: ...
 <a href="https://stackoverflow.com/users/13586637/ridhan-fadhilah" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="30"></a> &nbsp;
 -->
-
-I'm having interest in Web Development, Data Engineering, Machine Learning, and  Data Science. I love to learn something new. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
 
 - 🌱 I’m currently learning Back-End Engineering on [Codecademy](https://www.codecademy.com/profiles/ridhanf) and [freeCodeCamp](https://www.freecodecamp.org/ridhanf), and I'm also learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf).
 - 👯 I’m looking to collaborate on Web Development using JavaScript and Node.js
@@ -24,10 +24,9 @@ I'm having interest in Web Development, Data Engineering, Machine Learning, and 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
-[<img align="left" alt="HighTechCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ridhanf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ridhanfadhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="HighTechCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/HighTechCode]
+[<img align="left" alt="ridhanf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://linkedin.com/in/ridhanf]
+[<img align="left" alt="ridhanfadhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/ridhanfadhil]
 Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank account](https://www.hackerrank.com/ridhanf).
 
 ### Languages and Tools:
@@ -95,16 +94,6 @@ IDK
 ---
 
 <img align="left" alt="ridhanf's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ridhanf&show_icons=true&hide_border=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&hide=TeX&layout=compact)
 
-<!--
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[youtube]: https://youtube.com/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
--->
-[twitter]: https://twitter.com/HighTechCode
-[instagram]: https://instagram.com/ridhanfadhil
-[linkedin]: https://linkedin.com/in/ridhanf
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ridhanf.ridhanf)
