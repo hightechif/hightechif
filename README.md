@@ -38,8 +38,8 @@ Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank 
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/es6.svg" alt="ECMAScript 6" width="30px" height="30px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="30px" height="30px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="30px" height="30px"></a>
-<a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="35px" height="35px"></a>
-<a href="https://rubyonrails.org//" title="Rails"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/rails.svg" alt="Rails" width="35px" height="35px"></a>
+<a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="40px" height="40px"></a>
+<a href="https://rubyonrails.org//" title="Rails"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/rails.svg" alt="Rails" width="40px" height="40px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="30px" height="30px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="30px" height="30px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="35px" height="35px"></a>
