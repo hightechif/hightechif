@@ -30,7 +30,7 @@ I'm having interest in Web Development, Data Engineering, Machine Learning, and 
 
 Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank account](https://www.hackerrank.com/ridhanf).
 
-### Tech Stacks:
+### Languages and Tools:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio 
 Code" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
@@ -92,8 +92,9 @@ IDK
 <a href="https://nsis.sourceforge.io/" title="NSIS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nsis.svg" alt="NSIS" width="21px" height="21px"></a>
 -->
 
-### :zap: GitHub Stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+---
+
+<img align="left" alt="ridhanf's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ridhanf&show_icons=true&hide_border=true" />
 
 <!--
 [website]: https://codeSTACKr.com
