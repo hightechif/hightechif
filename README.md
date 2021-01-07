@@ -97,4 +97,4 @@ IDK
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ridhanf&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&hide=jupyter%20notebook&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ridhanf.ridhanf)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ridhanf.ridhanf) -->
