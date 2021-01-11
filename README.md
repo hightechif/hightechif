@@ -28,8 +28,6 @@ Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank 
 ### Languages and Tools:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="25px" height="25px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="25px" height="25px"></a>
-<a href="https://www.github.com/" title="GitHub"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/github-icon.svg" alt="GitHub" width="25px" height="25px"></a>
-<a href="https://www.gitlab.com/" title="GitLab"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/gitlab.svg" alt="GitLab" width="25px" height="25px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="25px" height="25px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="25px" height="25px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="25px" height="25px"></a>
@@ -65,6 +63,8 @@ To-Learn Next:
 <a href="https://rubyonrails.org/" title="Rails"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/rails.svg" alt="Rails" width="40px" height="25px"></a>
 
 IDK
+<a href="https://www.github.com/" title="GitHub"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/github-icon.svg" alt="GitHub" width="25px" height="25px"></a>
+<a href="https://www.gitlab.com/" title="GitLab"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/gitlab.svg" alt="GitLab" width="25px" height="25px"></a>
 <a href="https://jquery.com/" title="jQuery"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="25px" height="25px"></a>
 <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/vue.svg" alt="Vue.js" width="21px" height="21px"></a>
 <a href="https://svelte.dev/" title="Svelte"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/svelte-icon.svg" alt="Svelte" width="21px" height="21px"></a>
