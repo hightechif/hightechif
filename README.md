@@ -8,8 +8,8 @@
 - 😄 Pronouns: ...
 <a href="https://stackoverflow.com/users/13586637/ridhan-fadhilah" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="30"></a> &nbsp;
 -->
-I'm having interests in Web Development, Data Engineering, Machine Learning, and  Data Science. I love to learn something new. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
-- 🌱 I’m currently learning Back-End Engineering on [Codecademy](https://www.codecademy.com/profiles/ridhanf) and [freeCodeCamp](https://www.freecodecamp.org/ridhanf), and I'm also learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf).
+I'm having interests in Web Development and Machine Learning. I love to learn something new. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
+- 🌱 I’m currently learning Back-End Engineering on [Codecademy](https://www.codecademy.com/profiles/ridhanf) and [freeCodeCamp](https://www.freecodecamp.org/ridhanf), and I'm also learning Machine Learning on [Kaggle](https://www.kaggle.com/ridhanf).
 - 👯 I’m looking to collaborate on Web Development using JavaScript and Node.js
 - 🥅 2021 Goals: Work as a Back-End Engineer and Contribute more to Open Source projects
 - ⚡ Fun fact: I love Physics and Music. So, feel free to talk about this subject with me if you are interested too.
@@ -41,16 +41,18 @@ Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank 
 <a href="https://www.postman.com/" title="Postman"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" alt="Postman" width="25px" height="25px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="25px" height="25px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="25px" height="25px"></a>
+
+### Learning
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="30px" height="25px"></a>
+<a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 
 <!-- Another Tech Stacks
 
 To-Learn Next:
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eslint.svg" alt="ESLint" width="21px" height="21px"></a>
-<a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
 <a href="https://deno.land/" title="Deno"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/deno.svg" alt="Deno" width="21px" height="21px"></a>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="Sass" width="21px" height="21px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" width="21px" height="21px"></a>
