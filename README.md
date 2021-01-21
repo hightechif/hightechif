@@ -8,8 +8,8 @@
 - 😄 Pronouns: ...
 <a href="https://stackoverflow.com/users/13586637/ridhan-fadhilah" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="30"></a> &nbsp;
 -->
-I'm having interests in Web Development and Machine Learning. I love to learn something new. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
-- 🌱 I’m currently learning Back-End Engineering on [Codecademy](https://www.codecademy.com/profiles/ridhanf) and [freeCodeCamp](https://www.freecodecamp.org/ridhanf), and I'm also learning Machine Learning on [Kaggle](https://www.kaggle.com/ridhanf).
+I'm having interests in Web Development, Machine Learning and Data Science. I love to learn something new. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
+- 🌱 I’m currently learning Back-End Engineering on [Codecademy](https://www.codecademy.com/profiles/ridhanf) and [freeCodeCamp](https://www.freecodecamp.org/ridhanf), and I'm also learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf).
 - 👯 I’m looking to collaborate on Web Development using JavaScript and Node.js
 - 🥅 2021 Goals: Work as a Back-End Engineer and Contribute more to Open Source projects
 - ⚡ Fun fact: I love Physics and Music. So, feel free to talk about this subject with me if you are interested too.
