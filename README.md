@@ -38,9 +38,7 @@ Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank 
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="25px" height="25px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="40px" height="25px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="25px" height="25px"></a>
-<a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/django.svg" alt="django" width="25px" height="25px"></a>
 <a href="https://www.postman.com/" title="Postman"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" alt="Postman" width="25px" height="25px"></a>
-<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="25px" height="25px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="25px" height="25px"></a>
 
 ### Learning
@@ -51,6 +49,8 @@ Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank 
 <!-- Another Tech Stacks
 
 To-Learn Next:
+<a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/django.svg" alt="django" width="25px" height="25px"></a>
+<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="25px" height="25px"></a>
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eslint.svg" alt="ESLint" width="21px" height="21px"></a>
 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
 <a href="https://deno.land/" title="Deno"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/deno.svg" alt="Deno" width="21px" height="21px"></a>
