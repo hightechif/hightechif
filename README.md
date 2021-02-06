@@ -10,7 +10,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/HighTechCode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHighTechCode&screen_name=HighTechCode)
 ### Hello Coder, I'm Ridhan a.k.a. Fadhil
 I'm having interests in Software Engineering, Web Development, Machine Learning and Data Science. I love to learn something new. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
-- 🌱 I’m currently learning Back-End Engineering on [Codecademy](https://www.codecademy.com/profiles/ridhanf) and [freeCodeCamp](https://www.freecodecamp.org/ridhanf), and I'm also learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf).
+- 🌱 I’m currently learning Full-Stack Web Development on [Binar Academy](https://www.binaracademy.com) Back-End Engineering on [Codecademy](https://www.codecademy.com/profiles/ridhanf) and [freeCodeCamp](https://www.freecodecamp.org/ridhanf). 
+<!-- and I'm also learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf). -->
 - 👯 I’m looking to collaborate on software engineering project using JavaScript and Node.js
 - 🥅 2021 Goals: Work as a backend engineer and contribute more to open source projects
 - ⚡ Fun fact: I love Physics and Music. So, feel free to talk about this subject with me if you are interested too.
