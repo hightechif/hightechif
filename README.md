@@ -11,11 +11,11 @@
 ### Hello Coder, I'm Ridhan a.k.a. Fadhil
 I'm having interests in Software Engineering, Web Development, Machine Learning and Data Science. I love to learn something new. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
 - 🌱 I’m currently learning Full-Stack Web Development ([Binar Academy](https://www.binaracademy.com)) and Back-End Engineering ([Codecademy](https://www.codecademy.com/profiles/ridhanf), [freeCodeCamp](https://www.freecodecamp.org/ridhanf)).
-<!-- and I'm also learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf). -->
 - 👯 I’m looking to collaborate on software engineering project using JavaScript and Node.js
 - 🥅 2021 Goals: Work as a backend engineer and contribute more to open source projects
 - ⚡ Fun fact: I love Physics and Music. So, feel free to talk about this subject with me if you are interested too.
 - 📫 How to reach me: send your email to ridhanfadhilah@gmail.com
+<!-- and I'm also learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf). -->
 
 ### Connect with me:
 <!--
