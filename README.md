@@ -14,7 +14,7 @@ I'm having interests in Software Engineering, Web Development, Machine Learning 
 - 👯 I’m looking to collaborate on software engineering project using JavaScript and Node.js
 - 🥅 2021 Goals: Work as a backend engineer and contribute more to open source projects
 - ⚡ Fun fact: I love Physics and Music. So, feel free to talk about this subject with me if you are interested too.
-- 📫 How to reach me: send your email to ridhanfadhilah@gmail.com
+- 📫 How to reach me: send an email to ridhanfadhilah@gmail.com
 <!-- and I'm also learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf). -->
 
 ### Connect with me
