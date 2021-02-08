@@ -100,5 +100,6 @@ IDK
 ---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ridhanf&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=9&hide=tex,html,css,jupyter%20notebook&layout=compact)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ridhanf)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ridhanf.ridhanf) -->
