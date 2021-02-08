@@ -17,7 +17,7 @@ I'm having interests in Software Engineering, Web Development, Machine Learning 
 - 📫 How to reach me: send your email to ridhanfadhilah@gmail.com
 <!-- and I'm also learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf). -->
 
-### Connect with me:
+### Connect with me
 <!--
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -27,7 +27,7 @@ I'm having interests in Software Engineering, Web Development, Machine Learning 
 [<img align="left" alt="ridhanfadhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ridhanfadhil)
 Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank account](https://www.hackerrank.com/ridhanf).
 
-### Languages and Tools:
+### Languages and Tools
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="25px" height="25px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="25px" height="25px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="25px" height="25px"></a>
