@@ -12,7 +12,7 @@
 <!-- [<img align="left" alt="ridhanfadhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ridhanfadhil) -->
 
 ### Hello Coder, I'm Ridhan a.k.a. Fadhil
-🌱 I'm having interests in Software Engineering and Web Development. I'm open to discussion and collaboration. You can visit my [Codecademy](https://www.codecademy.com/ridhanf), [HackerRank](https://www.hackerrank.com/ridhanf), and [Kaggle](https://www.kaggle.com/ridhanf) profile accounts. 🥅 2021 Goals: Work as a Software Engineer and contribute more to open source projects
+I'm having interests in Software Engineering and Web Development. I'm open to discussion and collaboration. You can visit my [Codecademy](https://www.codecademy.com/ridhanf), [HackerRank](https://www.hackerrank.com/ridhanf), and [Kaggle](https://www.kaggle.com/ridhanf) profile accounts. My goals is work as a Software Engineer and contribute more to open source projects.
 
 <!-- - 🌱 I’m currently learning Full-Stack Web Development ([Binar Academy](https://www.binaracademy.com)) and Back-End Engineering ([Codecademy](https://www.codecademy.com/profiles/ridhanf), [freeCodeCamp](https://www.freecodecamp.org/ridhanf)). -->
 <!-- - 🥅 2021 Goals: Work as a Software Engineer and contribute more to open source projects -->
