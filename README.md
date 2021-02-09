@@ -11,9 +11,6 @@
 <!-- [<img align="left" alt="ridhanf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ridhanf) -->
 <!-- [<img align="left" alt="ridhanfadhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ridhanfadhil) -->
 
-### Hello Coder, I'm Ridhan a.k.a. Fadhil
-I have interests in Software Engineering and Web Development. I'm open to discussion and collaboration. You can visit my [Codecademy](https://www.codecademy.com/ridhanf), [HackerRank](https://www.hackerrank.com/ridhanf), and [Kaggle](https://www.kaggle.com/ridhanf) profile accounts. My goals: become a Software Engineer and contribute more to open source projects.
-
 <!-- - 🌱 I’m currently learning Full-Stack Web Development ([Binar Academy](https://www.binaracademy.com)) and Back-End Engineering ([Codecademy](https://www.codecademy.com/profiles/ridhanf), [freeCodeCamp](https://www.freecodecamp.org/ridhanf)). -->
 <!-- - 🥅 2021 Goals: Work as a Software Engineer and contribute more to open source projects -->
 <!-- - 👯 You can visit my [Kaggle](https://www.kaggle.com/ridhanf) and [HackerRank](https://www.hackerrank.com/ridhanf) profile accounts. -->
@@ -29,8 +26,14 @@ I have interests in Software Engineering and Web Development. I'm open to discus
 -->
 <!-- [<img align="left" alt="HighTechCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HighTechCode) -->
 
+### Hello Coder, I'm Ridhan a.k.a. Fadhil
+I have interests in Software Engineering and Web Development. I'm open to discussion and collaboration. You can visit my [Codecademy](https://www.codecademy.com/ridhanf), [HackerRank](https://www.hackerrank.com/ridhanf), and [Kaggle](https://www.kaggle.com/ridhanf) profile accounts. My goals: become a Software Engineer and contribute more to open source projects.
+
 ### Languages and Tools 
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="25px" height="25px"></a> <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="25px" height="25px"></a> <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="25px" height="25px"></a> <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="25px" height="25px"></a> <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="25px" height="25px"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="25px" height="25px"></a> <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/es6.svg" alt="ECMAScript 6" width="25px" height="25px"></a> <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="35px" height="25px"></a> <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="25px" height="25px"></a> <a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="40px" height="25px"></a> <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="25px" height="25px"></a> <a href="https://www.postman.com/" title="Postman"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" alt="Postman" width="25px" height="25px"></a> <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="25px" height="25px"></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=9&hide=tex,html,jupyter%20notebook&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ridhanf&show_icons=true&hide_border=true)
 
 <!-- ### Learning
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
@@ -87,8 +90,7 @@ IDK
 <a href="https://nsis.sourceforge.io/" title="NSIS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nsis.svg" alt="NSIS" width="21px" height="21px"></a>
 -->
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=9&hide=tex,html,jupyter%20notebook&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ridhanf&show_icons=true&hide_border=true)
+<!-- --- -->
+
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ridhanf.ridhanf) -->
