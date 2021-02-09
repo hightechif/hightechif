@@ -4,7 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=9&hide=tex,html,jupyter%20notebook&layout=compact)
 
-![PostgreSQL](https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/postgresql.svg?v=4&s=25)
+![PostgreSQL](https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg?raw=true|width=25px)
+![PostgreSQL](https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/postgresql.svg||width=25px)
 
 <!--
 **ridhanf/ridhanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
