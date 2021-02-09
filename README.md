@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=9&hide=tex,html,jupyter%20notebook&layout=compact) |
 
 ### A split slide
-<!-- _class: split -->
+_class: split
 
 <div class=ldiv>
 
