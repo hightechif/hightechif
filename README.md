@@ -10,6 +10,7 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/HighTechCode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHighTechCode&screen_name=HighTechCode) -->
 
 ### Hello Coder, I'm Ridhan a.k.a. Fadhil
+[<img align="left" alt="ridhanf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ridhanf)[<img align="left" alt="ridhanfadhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ridhanfadhil)
 I'm having interests in Software Engineering and Web Development. I'm open to discussion and collaboration.
 - 🌱 I’m currently learning Full-Stack Web Development ([Binar Academy](https://www.binaracademy.com)) and Back-End Engineering ([Codecademy](https://www.codecademy.com/profiles/ridhanf), [freeCodeCamp](https://www.freecodecamp.org/ridhanf)).
 - 🥅 2021 Goals: Work for software engineering role and contribute more to open source projects
@@ -25,10 +26,9 @@ I'm having interests in Software Engineering and Web Development. I'm open to di
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
 <!-- [<img align="left" alt="HighTechCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HighTechCode) -->
-[<img align="left" alt="ridhanf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ridhanf)
-[<img align="left" alt="ridhanfadhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ridhanfadhil)
 
-### Languages and Tools
+Languages and Tools        |  
+:-------------------------:|:-------------------------:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="25px" height="25px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="25px" height="25px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="25px" height="25px"></a>
@@ -41,8 +41,7 @@ I'm having interests in Software Engineering and Web Development. I'm open to di
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="40px" height="25px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="25px" height="25px"></a>
 <a href="https://www.postman.com/" title="Postman"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" alt="Postman" width="25px" height="25px"></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="25px" height="25px"></a>
-
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="25px" height="25px"></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=9&hide=tex,html,jupyter%20notebook&layout=compact)
 <!-- ### Learning
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="30px" height="25px"></a>
@@ -99,7 +98,6 @@ IDK
 -->
 
 ---
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ridhanf&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=9&hide=tex,html,jupyter%20notebook&layout=compact)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=ridhanf&show_icons=true&hide_border=true) -->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ridhanf.ridhanf) -->
