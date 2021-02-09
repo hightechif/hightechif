@@ -87,7 +87,8 @@ IDK
 <a href="https://nsis.sourceforge.io/" title="NSIS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nsis.svg" alt="NSIS" width="21px" height="21px"></a>
 -->
 
----
+<!-- --- -->
+
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=ridhanf&show_icons=true&hide_border=true) -->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ridhanf.ridhanf) -->
