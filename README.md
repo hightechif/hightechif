@@ -8,14 +8,15 @@
 -->
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/HighTechCode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHighTechCode&screen_name=HighTechCode) -->
+<!-- [<img align="left" alt="ridhanf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ridhanf) -->
+<!-- [<img align="left" alt="ridhanfadhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ridhanfadhil) -->
 
 ### Hello Coder, I'm Ridhan a.k.a. Fadhil
-[<img align="left" alt="ridhanf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ridhanf)[<img align="left" alt="ridhanfadhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ridhanfadhil)
 I'm having interests in Software Engineering and Web Development. I'm open to discussion and collaboration.
 - 🌱 I’m currently learning Full-Stack Web Development ([Binar Academy](https://www.binaracademy.com)) and Back-End Engineering ([Codecademy](https://www.codecademy.com/profiles/ridhanf), [freeCodeCamp](https://www.freecodecamp.org/ridhanf)).
 - 🥅 2021 Goals: Work for software engineering role and contribute more to open source projects
 - ⚡ Fun fact: I love Physics and Music. So, feel free to talk about this subject with me if you are interested too.
-- Visit my [Kaggle](https://www.kaggle.com/ridhanf) and [HackerRank](https://www.hackerrank.com/ridhanf) account.
+- 👯 You can visit my [Kaggle](https://www.kaggle.com/ridhanf) and [HackerRank](https://www.hackerrank.com/ridhanf) profile accounts.
 <!-- - 📫 How to reach me: send an email to ridhanfadhilah@gmail.com -->
 <!-- - 👯 I’m looking to collaborate on software engineering project using JavaScript and Node.js -->
 <!-- and I'm also learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf). -->
@@ -27,7 +28,7 @@ I'm having interests in Software Engineering and Web Development. I'm open to di
 -->
 <!-- [<img align="left" alt="HighTechCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HighTechCode) -->
 
-Languages                  | Languages and Tools 
+Languages on GitHub        | Languages and Tools 
 :-------------------------:|:-------------------------:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=9&hide=tex,html,jupyter%20notebook&layout=compact) | <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="25px" height="25px"></a> <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="25px" height="25px"></a> <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="25px" height="25px"></a> <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="25px" height="25px"></a> <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="25px" height="25px"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="25px" height="25px"></a> <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/es6.svg" alt="ECMAScript 6" width="25px" height="25px"></a> <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="35px" height="25px"></a> <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="25px" height="25px"></a> <a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="40px" height="25px"></a> <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="25px" height="25px"></a> <a href="https://www.postman.com/" title="Postman"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" alt="Postman" width="25px" height="25px"></a> <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="25px" height="25px"></a>
 
