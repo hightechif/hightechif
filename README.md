@@ -7,14 +7,15 @@
 <a href="https://stackoverflow.com/users/13586637/ridhan-fadhilah" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="30"></a> &nbsp;
 -->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/HighTechCode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHighTechCode&screen_name=HighTechCode)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/HighTechCode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHighTechCode&screen_name=HighTechCode) -->
+
 ### Hello Coder, I'm Ridhan a.k.a. Fadhil
-I'm having interests in Software Engineering, Web Development, Machine Learning and Data Science. I love to learn something new. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
+I'm having interests in Software Engineering and Web Development. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
 - 🌱 I’m currently learning Full-Stack Web Development ([Binar Academy](https://www.binaracademy.com)) and Back-End Engineering ([Codecademy](https://www.codecademy.com/profiles/ridhanf), [freeCodeCamp](https://www.freecodecamp.org/ridhanf)).
-- 👯 I’m looking to collaborate on software engineering project using JavaScript and Node.js
-- 🥅 2021 Goals: Work as a backend engineer and contribute more to open source projects
+- 🥅 2021 Goals: Work for software engineering role and contribute more to open source projects
 - ⚡ Fun fact: I love Physics and Music. So, feel free to talk about this subject with me if you are interested too.
-- 📫 How to reach me: send an email to ridhanfadhilah@gmail.com
+<!-- - 📫 How to reach me: send an email to ridhanfadhilah@gmail.com -->
+<!-- - 👯 I’m looking to collaborate on software engineering project using JavaScript and Node.js -->
 <!-- and I'm also learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf). -->
 
 ### Connect with me
@@ -22,7 +23,7 @@ I'm having interests in Software Engineering, Web Development, Machine Learning 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
-[<img align="left" alt="HighTechCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HighTechCode)
+<!-- [<img align="left" alt="HighTechCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HighTechCode) -->
 [<img align="left" alt="ridhanf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ridhanf)
 [<img align="left" alt="ridhanfadhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ridhanfadhil)
 Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank account](https://www.hackerrank.com/ridhanf).
@@ -42,10 +43,10 @@ Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank 
 <a href="https://www.postman.com/" title="Postman"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" alt="Postman" width="25px" height="25px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="25px" height="25px"></a>
 
-### Learning
+<!-- ### Learning
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="30px" height="25px"></a>
-<a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
+<a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="21px" height="21px"></a> -->
 
 <!-- Another Tech Stacks
 
