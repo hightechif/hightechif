@@ -10,15 +10,16 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/HighTechCode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHighTechCode&screen_name=HighTechCode) -->
 
 ### Hello Coder, I'm Ridhan a.k.a. Fadhil
-I'm having interests in Software Engineering and Web Development. I'm open to discussion and collaboration. Please reach me if you have something to discuss.
+I'm having interests in Software Engineering and Web Development. I'm open to discussion and collaboration.
 - 🌱 I’m currently learning Full-Stack Web Development ([Binar Academy](https://www.binaracademy.com)) and Back-End Engineering ([Codecademy](https://www.codecademy.com/profiles/ridhanf), [freeCodeCamp](https://www.freecodecamp.org/ridhanf)).
 - 🥅 2021 Goals: Work for software engineering role and contribute more to open source projects
 - ⚡ Fun fact: I love Physics and Music. So, feel free to talk about this subject with me if you are interested too.
+- Visit my [Kaggle](https://www.kaggle.com/ridhanf) and [HackerRank](https://www.hackerrank.com/ridhanf) account.
 <!-- - 📫 How to reach me: send an email to ridhanfadhilah@gmail.com -->
 <!-- - 👯 I’m looking to collaborate on software engineering project using JavaScript and Node.js -->
 <!-- and I'm also learning Data Science on [Kaggle](https://www.kaggle.com/ridhanf). -->
 
-### Connect with me
+<!-- ### Connect with me -->
 <!--
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -26,7 +27,6 @@ I'm having interests in Software Engineering and Web Development. I'm open to di
 <!-- [<img align="left" alt="HighTechCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HighTechCode) -->
 [<img align="left" alt="ridhanf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ridhanf)
 [<img align="left" alt="ridhanfadhil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ridhanfadhil)
-Also, visit my [GitLab account](https://www.gitlab.com/ridhanf) and [HackerRank account](https://www.hackerrank.com/ridhanf).
 
 ### Languages and Tools
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="25px" height="25px"></a>
