@@ -4,18 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=9&hide=tex,html,jupyter%20notebook&layout=compact)
 
-```
-const hello = () => {
-  Console.log("Hello world!");
-}
-```{: .language-javascript}
-
-```
-def hello():
-  print("Hello world!")
-}
-```{: .language-python}
-
 <!--
 **ridhanf/ridhanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
