@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=10&hide=m,tex,matlab,php,jupyter%20notebook&layout=compact&exclude_repo=rfadhil-fe-react)
 
+![CodeWars Score](https://www.codewars.com/users/ridhanf/badges/small)
+
 <!--
 **ridhanf/ridhanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
