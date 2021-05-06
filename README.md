@@ -5,7 +5,9 @@
 
 ![CodeWars Score](https://www.codewars.com/users/ridhanf/badges/small)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=10&hide=m,tex,php,jupyter%20notebook&layout=compact&exclude_repo=rfadhil-fe-react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=10&hide=m,tex,ejs,html,css,jupyter%20notebook&layout=compact&exclude_repo=rfadhil-fe-react,nextjs-vercel,hello-next,react-redux-app,redux-vanilla-js,react-firebase)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=10&hide=m,tex,php,jupyter%20notebook&layout=compact&exclude_repo=rfadhil-fe-react) -->
 
 <!-- <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/kotlin.svg" alt="Kotlin" width="25px" height="25px"></a> 
 <a href="https://developer.android.com/" title="Android"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/android-icon.svg" alt="Android" width="25px" height="25px"></a> 
