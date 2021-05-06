@@ -5,7 +5,7 @@
 
 ![CodeWars Score](https://www.codewars.com/users/ridhanf/badges/small)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=10&hide=m,tex,ejs,html,css,jupyter%20notebook&layout=compact&exclude_repo=rfadhil-fe-react,nextjs-vercel,hello-next,react-redux-app,redux-vanilla-js,react-firebase)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=10&hide=m,html,php,c%2b%2b,matlab,jupyter%20notebook&layout=compact&exclude_repo=rfadhil-fe-react,nextjs-vercel,hello-next,react-redux-app,redux-vanilla-js,react-firebase)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=10&hide=m,tex,php,jupyter%20notebook&layout=compact&exclude_repo=rfadhil-fe-react) -->
 
