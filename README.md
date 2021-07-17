@@ -11,7 +11,7 @@
 | Backend       |  <a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" height="15px"></a> <a href="https://jwt.io/" title="JWT"><img src="https://jwt.io/img/pic_logo.svg" alt="JWT" height="20px"></a> <a href="http://www.passportjs.org/" title="Passport"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/passport.svg" alt="Passport" height="20px"></a> <a href="https://momentjs.com/" title="Moment"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/momentjs.svg" alt="Moment" height="20px"></a> <a href="https://mochajs.org/" title="Mocha"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mocha.svg" alt="Mocha" height="20px"></a> <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" height="12px"></a> |
 | Mobile        | | -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=10&hide=m,tex,css,html,ejs,php,c%2b%2b,matlab,jupyter%20notebook&layout=compact&exclude_repo=nncontrol,rfadhil-fe-react,hello-next)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=10&hide=m,tex,css,html,ejs,php,c%2b%2b,matlab,jupyter%20notebook,go,groovy,shell&layout=compact&exclude_repo=nncontrol,rfadhil-fe-react,hello-next)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=10&hide=m,tex,php,jupyter%20notebook&layout=compact&exclude_repo=rfadhil-fe-react) -->
 
