@@ -4,22 +4,23 @@
 ![CodeWars Score](https://www.codewars.com/users/ridhanf/badges/small)
 
 <!-- Header -->
-<h1 align="center">✨ Hey, I’m Fadhil — aka <span style="color:#1EAF6F;">mangadil</span> ✨</h1>
-<h3 align="center">Software Engineer • Creative Coder • Explorer of Ideas</h3>
+<h1 align="center">🌅 Hey, I’m Fadhil — founder of <span style="color:#F0C857;">sunstring</span> 🌅</h1>
+<h3 align="center">Software Engineer • Creative Technologist • Systems Builder</h3>
 
 <p align="center">
-  <em>I build code that dances — blending logic, art, and curiosity into interactive experiences.</em>
+  <em>At <strong>sunstring</strong>, I craft engineered experiences — blending precision, creativity, and purposeful design into software people love to use.</em>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-Hello! I’m Fadhil, a **Mobile Engineer** at a Data & Tech Services company, passionate about making software that’s as beautiful as it is functional.  
-Beyond work, I’m on a mission to **become a better person every day** — mastering engineering, creativity, and personal growth.
+Hello! I’m Fadhil, a **Mobile Engineer** at a Data & Tech Services company, passionate about building impactful, elegant, and scalable software solutions.  
+Through **sunstring**, my professional identity and creative studio, I explore how engineering and design can merge into systems that are both technically excellent and emotionally engaging.
 
-You can find me experimenting with algorithms, crafting delightful UIs, or building AI-powered art tools.  
-If you’re curious about my work and learning journey, check out my other profiles:  
+You’ll often find me experimenting with interactive apps, optimizing system performance, or prototyping new ideas that balance **form** and **function**.
+
+If you’re curious about my work and learning journey, here’s where you can connect:  
 [LinkedIn](https://www.linkedin.com/in/ridhanf) •
 [LeetCode](https://leetcode.com/u/ridhanf/) •
 [Codewars](https://www.codewars.com/users/ridhanf) •
@@ -30,7 +31,7 @@ If you’re curious about my work and learning journey, check out my other profi
 
 ---
 
-### 🛠 Languages & Tools I Play With
+### 🛠 Languages & Tools
 
 **Languages**  
 <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/kotlin.svg" alt="Kotlin" height="20px"></a>
