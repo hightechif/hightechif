@@ -60,6 +60,6 @@ If you’re curious about my work and learning journey, check out my other profi
 
 ### 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhanf&langs_count=10&hide=m,tex,html,css,ejs,php,matlab,jupyter%20notebook,groovy,go,c%2b%2b&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightechif&langs_count=10&hide=m,tex,html,css,ejs,php,matlab,jupyter%20notebook,groovy,go,c%2b%2b&layout=compact)
 
 ---
