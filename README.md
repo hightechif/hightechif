@@ -39,9 +39,6 @@ If you’re curious about my journey into advanced engineering, connect here:
 <a href="https://dart.dev/" title="Dart"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/dart.svg" alt="Dart" height="20px"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" height="20px"></a>
 
-**Learning** \
-`PyTorch` `ROS2` `Isaac Sim` `Isaac Lab` `PPO`
-
 **Tech Stack**  
 <a href="https://developer.android.com/" title="Android"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/android-icon.svg" alt="Android" height="20px"></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/flutter.svg" alt="Flutter" height="20px"></a>
@@ -49,6 +46,9 @@ If you’re curious about my journey into advanced engineering, connect here:
 <a href="https://firebase.google.com/" title="Firebase"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" alt="Firebase" height="20px"></a>
 <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://spring.io/img/spring.svg" alt="Spring" width="20px" height="20px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
+
+**Learning** \
+`PyTorch` `ROS2` `Isaac Sim` `Isaac Lab` `PPO`
 
 ---
 
