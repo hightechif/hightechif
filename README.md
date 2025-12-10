@@ -19,7 +19,7 @@ Hi! I’m Fadhil, a **Mobile Engineer** transitioning into **Robotics & Robot Le
 At **sunstrinq**, my personal engineering studio, I explore how software, math, and machine intelligence merge into systems that learn, adapt, and scale.
 
 - **Current:** Crafting elegant mobile experiences and optimizing system logic.
-- **Focus:** Transitioning into **Robotic Control**, and **Reinforcement Learning**, and **Robot Learning**.
+- **Focus:** Transitioning into **Robotic Control**, **Reinforcement Learning**, and **Robot Learning**.
 - **Mission:** To build systems that don't just display data, but perceive and interact with the physical world.
 
 If you’re curious about my journey into advanced engineering, connect here:  
