@@ -5,7 +5,7 @@
 
 <!-- Header -->
 <h1 align="center">🤖 Hey, I’m Fadhil — a.k.a. <span style="color:#F0C857;">SunStrinq</span> 🌅</h1>
-<h3 align="center">Mobile Engineer ➜ Robotics Learning Engineer (in progress)</h3>
+<h3 align="center">Mobile Engineer ➜ Robotics Engineer (in progress)</h3>
 
 <p align="center">
   <em>I build engineered systems — from mobile apps to intelligent, learning-based robotic software.</em>
@@ -15,11 +15,11 @@
 
 ### 🚀 About Me
 
-Hi! I’m Fadhil, a **Mobile Engineer** transitioning into **Robotics & Robot Learning**.  
+Hi! I’m Fadhil, a **Mobile Engineer** transitioning into **Robotics**.  
 At **sunstrinq**, my personal engineering studio, I explore how software, math, and machine intelligence merge into systems that learn, adapt, and scale.
 
 - **Current:** Crafting elegant mobile experiences and optimizing system logic.
-- **Focus:** Transitioning into **Robotics Control**, **Reinforcement Learning**, and **Robot Learning**.
+- **Focus:** Transitioning into **Robotics Perception**, **Planning**, and **Control**.
 - **Mission:** To build systems that don't just display data, but perceive and interact with the physical world.
 
 If you’re curious about my journey into advanced engineering, connect here:  
