@@ -8,7 +8,7 @@
 <h3 align="center">Mobile Engineer ➜ Robotics Engineer (in progress)</h3>
 
 <p align="center">
-  <em>I build engineered systems — from mobile apps to intelligent, learning-based robotic software.</em>
+  <em>I build engineered systems — from mobile apps to intelligent, learning-based robotics. Making things unique while still being functional.</em>
 </p>
 
 ---
