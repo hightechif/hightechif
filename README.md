@@ -15,11 +15,12 @@
 
 ### 🚀 About Me
 
-Hi! I’m Fadhil, a **Mobile Engineer** transitioning into **Robotics**.  
-At **sunstrinq**, my personal engineering studio, I explore how software, math, and machine intelligence merge into systems that learn, adapt, and scale.
+Hi! I’m Fadhil — a **Mobile Engineer** transitioning into **Robotics & Autonomous Systems**.
 
-- **Current:** Crafting elegant mobile experiences and optimizing system logic.
-- **Focus:** Transitioning into **Robotics Perception**, **Planning**, and **Control** through a **Robotics Learning** process with **Reinforcement Learning** method using **PyTorch**.
+At **sunstrinq**, my personal engineering studio, I explore how **mathematics, physics, software engineering, and machine learning** come together to build systems that **perceive, decide, and act in the physical world**.
+
+- **Current:** Crafting elegant mobile experiences and optimizing system logic while deepening my foundations in robotics.
+- **Focus:** Transitioning into Robotics **Perception, Planning, and Control**, with an emphasis on **Robot Learning** using **Reinforcement Learning (PyTorch)**.
 - **Mission:** To build systems that don't just display data, but perceive and interact with the physical world.
 
 If you’re curious about my journey into advanced engineering, connect here:  
