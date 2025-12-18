@@ -5,10 +5,10 @@
 
 <!-- Header -->
 <h1 align="center">🤖 Hey, I’m Fadhil — a.k.a. <span style="color:#F0C857;">SunStrinq</span> 🌅</h1>
-<h3 align="center">Mobile Engineer ➜ Robotics Engineer (in progress)</h3>
+<h3 align="center">Mobile Engineer ➜ Robotics System & Control Engineer (in progress)</h3>
 
 <p align="center">
-  <em>I build engineered systems — from mobile apps to intelligent, learning-based robotics.</em>
+  <em>I build engineered systems — from mobile apps to control robotics system.</em>
 </p>
 <p  align="center">
   <em>Making things unique while still being functional.</em>
@@ -23,7 +23,7 @@ Hi! I’m Fadhil — a **Mobile Engineer** transitioning into **Robotics & Auton
 At **sunstrinq**, my personal engineering studio, I explore how **mathematics, physics, software engineering, and machine learning** come together to build systems that **perceive, decide, and act in the physical world**.
 
 - **Current:** Crafting elegant mobile experiences and optimizing system logic while deepening my foundations in robotics.
-- **Focus:** Transitioning into Robotics **Perception, Planning, and Control**, with an emphasis on **Robot Learning** using **Reinforcement Learning (PyTorch)**.
+- **Focus:** Transitioning into **Control**, **Robotics**, and **Autonomous System**.
 - **Mission:** To build systems that don't just display data, but perceive and interact with the physical world.
 
 If you’re curious about my journey into advanced engineering, connect here:  
