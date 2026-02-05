@@ -1,14 +1,11 @@
-<!-- Badges -->
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ridhanf.ridhanf)
 ![CodeWars Score](https://www.codewars.com/users/ridhanf/badges/small)
 
-<!-- Header -->
 <h1 align="center">🤖 Hey, I’m Fadhil — a.k.a. <span style="color:#F0C857;">SunStrinq</span> 🌅</h1>
-<h3 align="center">Mobile Engineer ➜ Robotics System & Control Engineer (in progress)</h3>
+<h3 align="center">Mobile Engineer ➜ Embedded Systems Engineer (in progress)</h3>
 
 <p align="center">
-  <em>I build engineered systems — from mobile apps to control robotics system.</em>
+  <em>I build engineered systems — from mobile apps to bare-metal firmware.</em>
 </p>
 <p  align="center">
   <em>Making things unique while still being functional.</em>
@@ -18,13 +15,13 @@
 
 ### 🚀 About Me
 
-Hi! I’m Fadhil — a **Mobile Engineer** transitioning into **Robotics & Autonomous Systems**.
+Hi! I’m Fadhil — a **Mobile Engineer** transitioning into **Embedded Systems & Firmware**.
 
-At **sunstrinq**, my personal engineering studio, I explore how **mathematics, physics, software engineering, and machine learning** come together to build systems that **perceive, decide, and act in the physical world**.
+At **sunstrinq**, my personal engineering studio, I explore how **software engineering, digital logic, and hardware constraints** come together to build systems that **run efficiently, reliably, and close to the metal**.
 
-- **Current:** Crafting elegant mobile experiences and optimizing system logic while deepening my foundations in robotics.
-- **Focus:** Transitioning into **Control**, **Robotics**, and **Autonomous System**.
-- **Mission:** To build systems that don't just display data, but perceive and interact with the physical world.
+- **Current:** Crafting elegant mobile interfaces while diving deep into the bits and bytes of hardware control.
+- **Focus:** Transitioning into **Firmware**, **RTOS**, and **Low-Level Architecture**.
+- **Mission:** To bridge the gap between abstract software and physical hardware, optimizing for performance, power, and precision.
 
 If you’re curious about my journey into advanced engineering, connect here:  
 [LinkedIn](https://www.linkedin.com/in/ridhanf) •
@@ -52,7 +49,7 @@ If you’re curious about my journey into advanced engineering, connect here:
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 
 **Learning** \
-`PyTorch` `ROS2` `Isaac Sim` `Isaac Lab` `PPO`
+`Modern C++` `FreeRTOS` `Embedded Linux` `STM32` `Drivers`
 
 ---
 
