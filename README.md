@@ -55,6 +55,8 @@ If you’re curious about my journey into advanced engineering, connect here:
 
 ### 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightechif&langs_count=10&hide=m,tex,html,css,ejs,php,matlab,jupyter%20notebook,groovy,go,c%2b%2b&layout=compact&exclude_repo=nncontrol,rfadhil-portfolio,nextjs-hello)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ---
