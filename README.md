@@ -32,15 +32,16 @@ If you’re curious about my journey into advanced engineering, connect here:
 
 ---
 
+<!--
 ### 🛠 Languages & Tools I Play With
 
-**Languages**  
+**Languages**
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" height="20px"></a>
 <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/kotlin.svg" alt="Kotlin" height="20px"></a>
 <a href="https://dart.dev/" title="Dart"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/dart.svg" alt="Dart" height="20px"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" height="20px"></a>
 
-**Tech Stack**  
+**Tech Stack**
 <a href="https://developer.android.com/" title="Android"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/android-icon.svg" alt="Android" height="20px"></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/flutter.svg" alt="Flutter" height="20px"></a>
 <a href="https://gradle.org/" title="Gradle"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/gradle.svg" alt="Gradle" height="20px"></a>
@@ -52,11 +53,13 @@ If you’re curious about my journey into advanced engineering, connect here:
 `Modern C++` `FreeRTOS` `Embedded Linux` `STM32` `Drivers`
 
 ---
+-->
 
-### 📊 My GitHub Stats
+<!-- ### 📊 My GitHub Stats -->
 
-![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
+<!-- ![Stats](./profile/stats.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
 ---
