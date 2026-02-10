@@ -7,9 +7,6 @@
 <p align="center">
   <em>I build engineered systems — from mobile apps to bare-metal firmware.</em>
 </p>
-<p  align="center">
-  <em>Making things unique while still being functional.</em>
-<p>
 
 ---
 
