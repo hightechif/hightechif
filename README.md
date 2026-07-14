@@ -42,6 +42,7 @@ Through **hightechif**, my personal engineering studio, I explore how software e
   <img src="https://img.shields.io/badge/LLM_Orchestration-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="LLM Orchestration">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/Prompt_Engineering-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/Harness_Engineering-2A4B7C?style=flat-square&logo=harness&logoColor=white" alt="Harness Engineering">
   <img src="https://img.shields.io/badge/Vector_Databases-006400?style=flat-square&logo=databricks&logoColor=white" alt="Vector Databases">
   <img src="https://img.shields.io/badge/Agentic_AI-8E44AD?style=flat-square&logo=robot&logoColor=white" alt="Agentic AI">
 </p>
